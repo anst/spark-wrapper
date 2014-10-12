@@ -1,0 +1,14 @@
+{
+    "name": "Spark",
+    "main": "index.html",
+
+    "window": {
+        "title": "Taylor High School Computer Science Contest 2014",
+        "width": 1200,
+        "height": 1000,
+        "min_width": 600,
+        "min_height": 400,
+        "toolbar": false
+    }
+}
+
